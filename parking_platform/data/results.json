@@ -1,0 +1,1614 @@
+{
+  "videos": [
+    {
+      "video_id": "a675a00d-a80e-42fb-89a8-d0a6552abd0f",
+      "video_path": "D:\\Parking\\parking_platform\\uploads\\a675a00d-a80e-42fb-89a8-d0a6552abd0f_40m_s.MOV",
+      "upload_timestamp": "2026-01-03T10:14:56.419470",
+      "signs": []
+    },
+    {
+      "video_id": "5ae24e7b-fbf4-4921-b7d5-0d8ff1d51c84",
+      "video_path": "D:\\Parking\\parking_platform\\uploads\\5ae24e7b-fbf4-4921-b7d5-0d8ff1d51c84_40_short.mp4",
+      "upload_timestamp": "2026-01-03T11:15:01.725714",
+      "signs": [
+        {
+          "sign_index": 1,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\5ae24e7b-fbf4-4921-b7d5-0d8ff1d51c84\\frame_000004.jpg",
+          "frame_timestamp": 1.9352666666666667,
+          "bbox": [
+            386,
+            643,
+            610,
+            874
+          ],
+          "extracted_text": "1/2P 8-6PM MON-FRI",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\5ae24e7b-fbf4-4921-b7d5-0d8ff1d51c84\\sign_000001.jpg"
+        },
+        {
+          "sign_index": 2,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\5ae24e7b-fbf4-4921-b7d5-0d8ff1d51c84\\frame_000004.jpg",
+          "frame_timestamp": 1.9352666666666667,
+          "bbox": [
+            386,
+            643,
+            610,
+            874
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\5ae24e7b-fbf4-4921-b7d5-0d8ff1d51c84\\sign_000002.jpg"
+        }
+      ]
+    },
+    {
+      "video_id": "d410c83c-1b22-466f-816e-ef2fb95f7e25",
+      "video_path": "D:\\Parking\\parking_platform\\uploads\\d410c83c-1b22-466f-816e-ef2fb95f7e25_40_short.mp4",
+      "upload_timestamp": "2026-01-03T11:47:45.084112",
+      "signs": [
+        {
+          "sign_index": 1,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\d410c83c-1b22-466f-816e-ef2fb95f7e25\\frame_000009.jpg",
+          "frame_timestamp": 1.65165,
+          "bbox": [
+            944,
+            633,
+            1080,
+            851
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\d410c83c-1b22-466f-816e-ef2fb95f7e25\\sign_000001.jpg",
+          "latitude": -37.8136825825,
+          "longitude": 144.9631825825
+        },
+        {
+          "sign_index": 2,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\d410c83c-1b22-466f-816e-ef2fb95f7e25\\frame_000010.jpg",
+          "frame_timestamp": 1.8351666666666666,
+          "bbox": [
+            585,
+            636,
+            830,
+            864
+          ],
+          "extracted_text": "1/2P 8-6 PM MON - FRI",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\d410c83c-1b22-466f-816e-ef2fb95f7e25\\sign_000002.jpg",
+          "latitude": -37.813691758333334,
+          "longitude": 144.96319175833332
+        },
+        {
+          "sign_index": 3,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\d410c83c-1b22-466f-816e-ef2fb95f7e25\\frame_000010.jpg",
+          "frame_timestamp": 1.8351666666666666,
+          "bbox": [
+            585,
+            636,
+            830,
+            864
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\d410c83c-1b22-466f-816e-ef2fb95f7e25\\sign_000003.jpg",
+          "latitude": -37.813691758333334,
+          "longitude": 144.96319175833332
+        },
+        {
+          "sign_index": 4,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\d410c83c-1b22-466f-816e-ef2fb95f7e25\\frame_000011.jpg",
+          "frame_timestamp": 2.018683333333333,
+          "bbox": [
+            206,
+            651,
+            427,
+            877
+          ],
+          "extracted_text": "1/2P 8-6PM MON-FRI",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\d410c83c-1b22-466f-816e-ef2fb95f7e25\\sign_000004.jpg",
+          "latitude": -37.81370093416666,
+          "longitude": 144.96320093416668
+        },
+        {
+          "sign_index": 5,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\d410c83c-1b22-466f-816e-ef2fb95f7e25\\frame_000011.jpg",
+          "frame_timestamp": 2.018683333333333,
+          "bbox": [
+            206,
+            651,
+            427,
+            877
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\d410c83c-1b22-466f-816e-ef2fb95f7e25\\sign_000005.jpg",
+          "latitude": -37.81370093416666,
+          "longitude": 144.96320093416668
+        },
+        {
+          "sign_index": 6,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\d410c83c-1b22-466f-816e-ef2fb95f7e25\\frame_000036.jpg",
+          "frame_timestamp": 6.6066,
+          "bbox": [
+            352,
+            897,
+            474,
+            1088
+          ],
+          "extracted_text": "1/2P 8-6PM MON-FRI",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\d410c83c-1b22-466f-816e-ef2fb95f7e25\\sign_000006.jpg",
+          "latitude": -37.8139,
+          "longitude": 144.9634
+        }
+      ]
+    },
+    {
+      "video_id": "ec3916fe-01c5-420e-9d27-4f240ae1fb7c",
+      "video_path": "D:\\Parking\\parking_platform\\uploads\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c_test_video.mp4",
+      "upload_timestamp": "2026-01-03T13:56:26.710998",
+      "signs": [
+        {
+          "sign_index": 1,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000000.jpg",
+          "frame_timestamp": 0.0,
+          "bbox": [
+            1666,
+            579,
+            1707,
+            641
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000001.jpg",
+          "latitude": -37.8136,
+          "longitude": 144.9631
+        },
+        {
+          "sign_index": 2,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000001.jpg",
+          "frame_timestamp": 0.7674333333333333,
+          "bbox": [
+            1703,
+            582,
+            1756,
+            646
+          ],
+          "extracted_text": "ZONE 8",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000002.jpg",
+          "latitude": -37.81363837166667,
+          "longitude": 144.96313837166667
+        },
+        {
+          "sign_index": 3,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000002.jpg",
+          "frame_timestamp": 1.5348666666666666,
+          "bbox": [
+            1787,
+            546,
+            1853,
+            626
+          ],
+          "extracted_text": "PERMIT ZONE 8AM-6PM",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000003.jpg",
+          "latitude": -37.81367674333333,
+          "longitude": 144.96317674333335
+        },
+        {
+          "sign_index": 4,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000004.jpg",
+          "frame_timestamp": 3.069733333333333,
+          "bbox": [
+            567,
+            388,
+            603,
+            525
+          ],
+          "extracted_text": "S 2P",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000004.jpg",
+          "latitude": -37.81375348666666,
+          "longitude": 144.96325348666664
+        },
+        {
+          "sign_index": 5,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000005.jpg",
+          "frame_timestamp": 3.8371666666666666,
+          "bbox": [
+            567,
+            346,
+            603,
+            512
+          ],
+          "extracted_text": "S 8F-9F 3.-4. 2P 9F-3.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000005.jpg",
+          "latitude": -37.81379185833333,
+          "longitude": 144.96329185833332
+        },
+        {
+          "sign_index": 6,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000006.jpg",
+          "frame_timestamp": 4.6046000000000005,
+          "bbox": [
+            520,
+            291,
+            568,
+            491
+          ],
+          "extracted_text": "8-9 3-4 SCHOOL SITE 2P 9-3.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000006.jpg",
+          "latitude": -37.81383023,
+          "longitude": 144.96333023
+        },
+        {
+          "sign_index": 7,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000007.jpg",
+          "frame_timestamp": 5.372033333333333,
+          "bbox": [
+            375,
+            180,
+            478,
+            461
+          ],
+          "extracted_text": "8:30-9:30\n3-4 SCHOOL DAYS\n2P\n9:30-3:",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000007.jpg",
+          "latitude": -37.81386860166667,
+          "longitude": 144.96336860166667
+        },
+        {
+          "sign_index": 8,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000008.jpg",
+          "frame_timestamp": 6.139466666666666,
+          "bbox": [
+            57,
+            0,
+            281,
+            394
+          ],
+          "extracted_text": "8:30-9:30\n3 PM-4 PM\nSCHOOL DAYS\n2P\n9:30 AM-3 PM\nMON-SAT",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000008.jpg",
+          "latitude": -37.81390697333333,
+          "longitude": 144.96340697333335
+        },
+        {
+          "sign_index": 9,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000022.jpg",
+          "frame_timestamp": 16.883533333333332,
+          "bbox": [
+            1457,
+            534,
+            1505,
+            591
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000009.jpg",
+          "latitude": -37.81444417666667,
+          "longitude": 144.96394417666667
+        },
+        {
+          "sign_index": 10,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000023.jpg",
+          "frame_timestamp": 17.650966666666665,
+          "bbox": [
+            1554,
+            508,
+            1611,
+            569
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000010.jpg",
+          "latitude": -37.81448254833334,
+          "longitude": 144.96398254833335
+        },
+        {
+          "sign_index": 11,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000024.jpg",
+          "frame_timestamp": 18.418400000000002,
+          "bbox": [
+            1674,
+            481,
+            1740,
+            547
+          ],
+          "extracted_text": "PARKING ZONE 8.00-6.00",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000011.jpg",
+          "latitude": -37.81452092,
+          "longitude": 144.96402092
+        },
+        {
+          "sign_index": 12,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000025.jpg",
+          "frame_timestamp": 19.185833333333335,
+          "bbox": [
+            1830,
+            447,
+            1910,
+            530
+          ],
+          "extracted_text": "PERMIT ZONE 8-6-",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000012.jpg",
+          "latitude": -37.81455929166666,
+          "longitude": 144.96405929166664
+        },
+        {
+          "sign_index": 13,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000027.jpg",
+          "frame_timestamp": 20.7207,
+          "bbox": [
+            642,
+            490,
+            693,
+            582
+          ],
+          "extracted_text": "2P",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000013.jpg",
+          "latitude": -37.814636035,
+          "longitude": 144.964136035
+        },
+        {
+          "sign_index": 14,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000028.jpg",
+          "frame_timestamp": 21.488133333333334,
+          "bbox": [
+            606,
+            465,
+            678,
+            586
+          ],
+          "extracted_text": "2P 9-1",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000014.jpg",
+          "latitude": -37.81467440666667,
+          "longitude": 144.96417440666667
+        },
+        {
+          "sign_index": 15,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000029.jpg",
+          "frame_timestamp": 22.255566666666667,
+          "bbox": [
+            543,
+            426,
+            639,
+            583
+          ],
+          "extracted_text": "S 8-9 3-4 2P 9-3.",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000015.jpg",
+          "latitude": -37.81471277833334,
+          "longitude": 144.96421277833335
+        },
+        {
+          "sign_index": 16,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000030.jpg",
+          "frame_timestamp": 23.023,
+          "bbox": [
+            420,
+            349,
+            590,
+            571
+          ],
+          "extracted_text": "2P 9-3.",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000016.jpg",
+          "latitude": -37.81475115,
+          "longitude": 144.96425115
+        },
+        {
+          "sign_index": 17,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000030.jpg",
+          "frame_timestamp": 23.023,
+          "bbox": [
+            420,
+            349,
+            590,
+            571
+          ],
+          "extracted_text": "8-9 3-4.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000017.jpg",
+          "latitude": -37.81475115,
+          "longitude": 144.96425115
+        },
+        {
+          "sign_index": 18,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000031.jpg",
+          "frame_timestamp": 23.790433333333333,
+          "bbox": [
+            150,
+            174,
+            482,
+            538
+          ],
+          "extracted_text": "2P 9:30 AM-3 PM MON-SAT",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000018.jpg",
+          "latitude": -37.81478952166666,
+          "longitude": 144.96428952166667
+        },
+        {
+          "sign_index": 19,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000031.jpg",
+          "frame_timestamp": 23.790433333333333,
+          "bbox": [
+            150,
+            174,
+            482,
+            538
+          ],
+          "extracted_text": "8:30 AM-9:30 PM SCHOOL DAYS",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000019.jpg",
+          "latitude": -37.81478952166666,
+          "longitude": 144.96428952166667
+        },
+        {
+          "sign_index": 20,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\frame_000032.jpg",
+          "frame_timestamp": 24.557866666666666,
+          "bbox": [
+            0,
+            0,
+            200,
+            315
+          ],
+          "extracted_text": "NO PARKING",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\ec3916fe-01c5-420e-9d27-4f240ae1fb7c\\sign_000020.jpg",
+          "latitude": -37.8148,
+          "longitude": 144.9643
+        }
+      ]
+    },
+    {
+      "video_id": "bed93114-eb47-4221-ae52-5565d8f7d229",
+      "video_path": "D:\\Parking\\parking_platform\\uploads\\bed93114-eb47-4221-ae52-5565d8f7d229_test_video.mp4",
+      "upload_timestamp": "2026-01-03T22:33:57.025628",
+      "signs": [
+        {
+          "sign_index": 1,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000000.jpg",
+          "frame_timestamp": 0.0,
+          "bbox": [
+            1666,
+            579,
+            1707,
+            641
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000001.jpg",
+          "latitude": -37.8136,
+          "longitude": 144.9631
+        },
+        {
+          "sign_index": 2,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000001.jpg",
+          "frame_timestamp": 0.7674333333333333,
+          "bbox": [
+            1703,
+            582,
+            1756,
+            646
+          ],
+          "extracted_text": "ZONE 8",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000002.jpg",
+          "latitude": -37.81363837166667,
+          "longitude": 144.96313837166667
+        },
+        {
+          "sign_index": 3,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000002.jpg",
+          "frame_timestamp": 1.5348666666666666,
+          "bbox": [
+            1787,
+            546,
+            1853,
+            626
+          ],
+          "extracted_text": "PERMIT ZONE 8AM-6PM",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000003.jpg",
+          "latitude": -37.81367674333333,
+          "longitude": 144.96317674333335
+        },
+        {
+          "sign_index": 4,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000004.jpg",
+          "frame_timestamp": 3.069733333333333,
+          "bbox": [
+            567,
+            388,
+            603,
+            525
+          ],
+          "extracted_text": "S 2P",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000004.jpg",
+          "latitude": -37.81375348666666,
+          "longitude": 144.96325348666664
+        },
+        {
+          "sign_index": 5,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000005.jpg",
+          "frame_timestamp": 3.8371666666666666,
+          "bbox": [
+            567,
+            346,
+            603,
+            512
+          ],
+          "extracted_text": "S 8F-9F 3.-4. 2P 9F-3.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000005.jpg",
+          "latitude": -37.81379185833333,
+          "longitude": 144.96329185833332
+        },
+        {
+          "sign_index": 6,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000006.jpg",
+          "frame_timestamp": 4.6046000000000005,
+          "bbox": [
+            520,
+            291,
+            568,
+            491
+          ],
+          "extracted_text": "8-9 3-4 SCHOOL SITE 2P 9-3.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000006.jpg",
+          "latitude": -37.81383023,
+          "longitude": 144.96333023
+        },
+        {
+          "sign_index": 7,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000007.jpg",
+          "frame_timestamp": 5.372033333333333,
+          "bbox": [
+            375,
+            180,
+            478,
+            461
+          ],
+          "extracted_text": "8:30-9:30\n3-4 SCHOOL DAYS\n2P\n9:30-3:",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000007.jpg",
+          "latitude": -37.81386860166667,
+          "longitude": 144.96336860166667
+        },
+        {
+          "sign_index": 8,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000008.jpg",
+          "frame_timestamp": 6.139466666666666,
+          "bbox": [
+            57,
+            0,
+            281,
+            394
+          ],
+          "extracted_text": "8:30-9:30\n3 PM-4 PM\nSCHOOL DAYS\n2P\n9:30 AM-3 PM\nMON-SAT",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000008.jpg",
+          "latitude": -37.81390697333333,
+          "longitude": 144.96340697333335
+        },
+        {
+          "sign_index": 9,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000022.jpg",
+          "frame_timestamp": 16.883533333333332,
+          "bbox": [
+            1457,
+            534,
+            1505,
+            591
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000009.jpg",
+          "latitude": -37.81444417666667,
+          "longitude": 144.96394417666667
+        },
+        {
+          "sign_index": 10,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000023.jpg",
+          "frame_timestamp": 17.650966666666665,
+          "bbox": [
+            1554,
+            508,
+            1611,
+            569
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000010.jpg",
+          "latitude": -37.81448254833334,
+          "longitude": 144.96398254833335
+        },
+        {
+          "sign_index": 11,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000024.jpg",
+          "frame_timestamp": 18.418400000000002,
+          "bbox": [
+            1674,
+            481,
+            1740,
+            547
+          ],
+          "extracted_text": "PARKING ZONE 8.00-6.00",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000011.jpg",
+          "latitude": -37.81452092,
+          "longitude": 144.96402092
+        },
+        {
+          "sign_index": 12,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000025.jpg",
+          "frame_timestamp": 19.185833333333335,
+          "bbox": [
+            1830,
+            447,
+            1910,
+            530
+          ],
+          "extracted_text": "PERMIT ZONE 8-6-",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000012.jpg",
+          "latitude": -37.81455929166666,
+          "longitude": 144.96405929166664
+        },
+        {
+          "sign_index": 13,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000027.jpg",
+          "frame_timestamp": 20.7207,
+          "bbox": [
+            642,
+            490,
+            693,
+            582
+          ],
+          "extracted_text": "2P",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000013.jpg",
+          "latitude": -37.814636035,
+          "longitude": 144.964136035
+        },
+        {
+          "sign_index": 14,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000028.jpg",
+          "frame_timestamp": 21.488133333333334,
+          "bbox": [
+            606,
+            465,
+            678,
+            586
+          ],
+          "extracted_text": "2P 9-1",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000014.jpg",
+          "latitude": -37.81467440666667,
+          "longitude": 144.96417440666667
+        },
+        {
+          "sign_index": 15,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000029.jpg",
+          "frame_timestamp": 22.255566666666667,
+          "bbox": [
+            543,
+            426,
+            639,
+            583
+          ],
+          "extracted_text": "S 8-9 3-4 2P 9-3.",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000015.jpg",
+          "latitude": -37.81471277833334,
+          "longitude": 144.96421277833335
+        },
+        {
+          "sign_index": 16,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000030.jpg",
+          "frame_timestamp": 23.023,
+          "bbox": [
+            420,
+            349,
+            590,
+            571
+          ],
+          "extracted_text": "2P 9-3.",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000016.jpg",
+          "latitude": -37.81475115,
+          "longitude": 144.96425115
+        },
+        {
+          "sign_index": 17,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000030.jpg",
+          "frame_timestamp": 23.023,
+          "bbox": [
+            420,
+            349,
+            590,
+            571
+          ],
+          "extracted_text": "8-9 3-4.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000017.jpg",
+          "latitude": -37.81475115,
+          "longitude": 144.96425115
+        },
+        {
+          "sign_index": 18,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000031.jpg",
+          "frame_timestamp": 23.790433333333333,
+          "bbox": [
+            150,
+            174,
+            482,
+            538
+          ],
+          "extracted_text": "2P 9:30 AM-3 PM MON-SAT",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000018.jpg",
+          "latitude": -37.81478952166666,
+          "longitude": 144.96428952166667
+        },
+        {
+          "sign_index": 19,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000031.jpg",
+          "frame_timestamp": 23.790433333333333,
+          "bbox": [
+            150,
+            174,
+            482,
+            538
+          ],
+          "extracted_text": "8:30 AM-9:30 PM SCHOOL DAYS",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000019.jpg",
+          "latitude": -37.81478952166666,
+          "longitude": 144.96428952166667
+        },
+        {
+          "sign_index": 20,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\bed93114-eb47-4221-ae52-5565d8f7d229\\frame_000032.jpg",
+          "frame_timestamp": 24.557866666666666,
+          "bbox": [
+            0,
+            0,
+            200,
+            315
+          ],
+          "extracted_text": "NO PARKING",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\bed93114-eb47-4221-ae52-5565d8f7d229\\sign_000020.jpg",
+          "latitude": -37.8148,
+          "longitude": 144.9643
+        }
+      ]
+    },
+    {
+      "video_id": "85d7a6e9-d9e0-42c7-a5d3-85daec13c31d",
+      "video_path": "D:\\Parking\\parking_platform\\uploads\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d_test_video.mp4",
+      "upload_timestamp": "2026-01-03T22:44:00.876045",
+      "signs": [
+        {
+          "sign_index": 1,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000000.jpg",
+          "frame_timestamp": 0.0,
+          "bbox": [
+            1666,
+            579,
+            1707,
+            641
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000001.jpg",
+          "latitude": -37.8136,
+          "longitude": 144.9631
+        },
+        {
+          "sign_index": 2,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000001.jpg",
+          "frame_timestamp": 0.7674333333333333,
+          "bbox": [
+            1703,
+            582,
+            1756,
+            646
+          ],
+          "extracted_text": "ZONE 8",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000002.jpg",
+          "latitude": -37.81363837166667,
+          "longitude": 144.96313837166667
+        },
+        {
+          "sign_index": 3,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000002.jpg",
+          "frame_timestamp": 1.5348666666666666,
+          "bbox": [
+            1787,
+            546,
+            1853,
+            626
+          ],
+          "extracted_text": "PERMIT ZONE 8AM-6PM",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000003.jpg",
+          "latitude": -37.81367674333333,
+          "longitude": 144.96317674333335
+        },
+        {
+          "sign_index": 4,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000004.jpg",
+          "frame_timestamp": 3.069733333333333,
+          "bbox": [
+            567,
+            388,
+            603,
+            525
+          ],
+          "extracted_text": "S 2P",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000004.jpg",
+          "latitude": -37.81375348666666,
+          "longitude": 144.96325348666664
+        },
+        {
+          "sign_index": 5,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000005.jpg",
+          "frame_timestamp": 3.8371666666666666,
+          "bbox": [
+            567,
+            346,
+            603,
+            512
+          ],
+          "extracted_text": "S 8F-9F 3.-4. 2P 9F-3.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000005.jpg",
+          "latitude": -37.81379185833333,
+          "longitude": 144.96329185833332
+        },
+        {
+          "sign_index": 6,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000006.jpg",
+          "frame_timestamp": 4.6046000000000005,
+          "bbox": [
+            520,
+            291,
+            568,
+            491
+          ],
+          "extracted_text": "8-9 3-4 SCHOOL SITE 2P 9-3.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000006.jpg",
+          "latitude": -37.81383023,
+          "longitude": 144.96333023
+        },
+        {
+          "sign_index": 7,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000007.jpg",
+          "frame_timestamp": 5.372033333333333,
+          "bbox": [
+            375,
+            180,
+            478,
+            461
+          ],
+          "extracted_text": "8:30-9:30\n3-4 SCHOOL DAYS\n2P\n9:30-3:",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000007.jpg",
+          "latitude": -37.81386860166667,
+          "longitude": 144.96336860166667
+        },
+        {
+          "sign_index": 8,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000008.jpg",
+          "frame_timestamp": 6.139466666666666,
+          "bbox": [
+            57,
+            0,
+            281,
+            394
+          ],
+          "extracted_text": "8:30-9:30\n3 PM-4 PM\nSCHOOL DAYS\n2P\n9:30 AM-3 PM\nMON-SAT",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000008.jpg",
+          "latitude": -37.81390697333333,
+          "longitude": 144.96340697333335
+        },
+        {
+          "sign_index": 9,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000022.jpg",
+          "frame_timestamp": 16.883533333333332,
+          "bbox": [
+            1457,
+            534,
+            1505,
+            591
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000009.jpg",
+          "latitude": -37.81444417666667,
+          "longitude": 144.96394417666667
+        },
+        {
+          "sign_index": 10,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000023.jpg",
+          "frame_timestamp": 17.650966666666665,
+          "bbox": [
+            1554,
+            508,
+            1611,
+            569
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000010.jpg",
+          "latitude": -37.81448254833334,
+          "longitude": 144.96398254833335
+        },
+        {
+          "sign_index": 11,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000024.jpg",
+          "frame_timestamp": 18.418400000000002,
+          "bbox": [
+            1674,
+            481,
+            1740,
+            547
+          ],
+          "extracted_text": "PARKING ZONE 8.00-6.00",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000011.jpg",
+          "latitude": -37.81452092,
+          "longitude": 144.96402092
+        },
+        {
+          "sign_index": 12,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000025.jpg",
+          "frame_timestamp": 19.185833333333335,
+          "bbox": [
+            1830,
+            447,
+            1910,
+            530
+          ],
+          "extracted_text": "PERMIT ZONE 8-6-",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000012.jpg",
+          "latitude": -37.81455929166666,
+          "longitude": 144.96405929166664
+        },
+        {
+          "sign_index": 13,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000027.jpg",
+          "frame_timestamp": 20.7207,
+          "bbox": [
+            642,
+            490,
+            693,
+            582
+          ],
+          "extracted_text": "2P",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000013.jpg",
+          "latitude": -37.814636035,
+          "longitude": 144.964136035
+        },
+        {
+          "sign_index": 14,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000028.jpg",
+          "frame_timestamp": 21.488133333333334,
+          "bbox": [
+            606,
+            465,
+            678,
+            586
+          ],
+          "extracted_text": "2P 9-1",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000014.jpg",
+          "latitude": -37.81467440666667,
+          "longitude": 144.96417440666667
+        },
+        {
+          "sign_index": 15,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000029.jpg",
+          "frame_timestamp": 22.255566666666667,
+          "bbox": [
+            543,
+            426,
+            639,
+            583
+          ],
+          "extracted_text": "S 8-9 3-4 2P 9-3.",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000015.jpg",
+          "latitude": -37.81471277833334,
+          "longitude": 144.96421277833335
+        },
+        {
+          "sign_index": 16,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000030.jpg",
+          "frame_timestamp": 23.023,
+          "bbox": [
+            420,
+            349,
+            590,
+            571
+          ],
+          "extracted_text": "2P 9-3.",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000016.jpg",
+          "latitude": -37.81475115,
+          "longitude": 144.96425115
+        },
+        {
+          "sign_index": 17,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000030.jpg",
+          "frame_timestamp": 23.023,
+          "bbox": [
+            420,
+            349,
+            590,
+            571
+          ],
+          "extracted_text": "8-9 3-4.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000017.jpg",
+          "latitude": -37.81475115,
+          "longitude": 144.96425115
+        },
+        {
+          "sign_index": 18,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000031.jpg",
+          "frame_timestamp": 23.790433333333333,
+          "bbox": [
+            150,
+            174,
+            482,
+            538
+          ],
+          "extracted_text": "2P 9:30 AM-3 PM MON-SAT",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000018.jpg",
+          "latitude": -37.81478952166666,
+          "longitude": 144.96428952166667
+        },
+        {
+          "sign_index": 19,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000031.jpg",
+          "frame_timestamp": 23.790433333333333,
+          "bbox": [
+            150,
+            174,
+            482,
+            538
+          ],
+          "extracted_text": "8:30 AM-9:30 PM SCHOOL DAYS",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000019.jpg",
+          "latitude": -37.81478952166666,
+          "longitude": 144.96428952166667
+        },
+        {
+          "sign_index": 20,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\frame_000032.jpg",
+          "frame_timestamp": 24.557866666666666,
+          "bbox": [
+            0,
+            0,
+            200,
+            315
+          ],
+          "extracted_text": "NO PARKING",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\85d7a6e9-d9e0-42c7-a5d3-85daec13c31d\\sign_000020.jpg",
+          "latitude": -37.8148,
+          "longitude": 144.9643
+        }
+      ]
+    },
+    {
+      "video_id": "b6176461-858c-4de3-b0a2-d7df54e356a3",
+      "video_path": "D:\\Parking\\parking_platform\\uploads\\b6176461-858c-4de3-b0a2-d7df54e356a3_test_video_short.mp4",
+      "upload_timestamp": "2026-01-04T10:26:18.849478",
+      "signs": [
+        {
+          "sign_index": 1,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000000.jpg",
+          "frame_timestamp": 0.0,
+          "bbox": [
+            1666,
+            579,
+            1707,
+            641
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000001.jpg",
+          "latitude": -37.8136,
+          "longitude": 144.9631
+        },
+        {
+          "sign_index": 2,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000001.jpg",
+          "frame_timestamp": 0.46713333333333334,
+          "bbox": [
+            1685,
+            587,
+            1733,
+            650
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000002.jpg",
+          "latitude": -37.81362335666667,
+          "longitude": 144.96312335666667
+        },
+        {
+          "sign_index": 3,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000002.jpg",
+          "frame_timestamp": 0.9342666666666667,
+          "bbox": [
+            1717,
+            577,
+            1770,
+            646
+          ],
+          "extracted_text": "PERMIT ZONE 5",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000003.jpg",
+          "latitude": -37.813646713333334,
+          "longitude": 144.96314671333334
+        },
+        {
+          "sign_index": 4,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000003.jpg",
+          "frame_timestamp": 1.4014,
+          "bbox": [
+            1774,
+            553,
+            1831,
+            629
+          ],
+          "extracted_text": "PERMIT ZONE 8AM-6PM",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000004.jpg",
+          "latitude": -37.81367007,
+          "longitude": 144.96317007000002
+        },
+        {
+          "sign_index": 5,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000004.jpg",
+          "frame_timestamp": 1.8685333333333334,
+          "bbox": [
+            1842,
+            527,
+            1914,
+            604
+          ],
+          "extracted_text": "PERMIT ZONE 8-6-",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000005.jpg",
+          "latitude": -37.81369342666667,
+          "longitude": 144.96319342666666
+        },
+        {
+          "sign_index": 6,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000006.jpg",
+          "frame_timestamp": 2.8028,
+          "bbox": [
+            566,
+            407,
+            609,
+            541
+          ],
+          "extracted_text": "S 2P U.S.",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000006.jpg",
+          "latitude": -37.81374014,
+          "longitude": 144.96324013999998
+        },
+        {
+          "sign_index": 7,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000007.jpg",
+          "frame_timestamp": 3.2699333333333334,
+          "bbox": [
+            558,
+            378,
+            600,
+            522
+          ],
+          "extracted_text": "S 2P",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000007.jpg",
+          "latitude": -37.81376349666667,
+          "longitude": 144.96326349666666
+        },
+        {
+          "sign_index": 8,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000008.jpg",
+          "frame_timestamp": 3.7370666666666668,
+          "bbox": [
+            567,
+            351,
+            603,
+            514
+          ],
+          "extracted_text": "S 2P 9-3.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000008.jpg",
+          "latitude": -37.81378685333333,
+          "longitude": 144.96328685333333
+        },
+        {
+          "sign_index": 9,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000009.jpg",
+          "frame_timestamp": 4.2042,
+          "bbox": [
+            546,
+            312,
+            603,
+            498
+          ],
+          "extracted_text": "8 8-9 3-4 2P 9-3.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000009.jpg",
+          "latitude": -37.81381021,
+          "longitude": 144.96331021
+        },
+        {
+          "sign_index": 10,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000010.jpg",
+          "frame_timestamp": 4.671333333333333,
+          "bbox": [
+            506,
+            280,
+            571,
+            488
+          ],
+          "extracted_text": "8-9 3-4 2P 9-3",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000010.jpg",
+          "latitude": -37.813833566666666,
+          "longitude": 144.96333356666665
+        },
+        {
+          "sign_index": 11,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000011.jpg",
+          "frame_timestamp": 5.138466666666667,
+          "bbox": [
+            433,
+            219,
+            519,
+            468
+          ],
+          "extracted_text": "$ 8-9 3-4 School bus 2P 9-3 MON-SAT",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000011.jpg",
+          "latitude": -37.81385692333333,
+          "longitude": 144.96335692333332
+        },
+        {
+          "sign_index": 12,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000012.jpg",
+          "frame_timestamp": 5.6056,
+          "bbox": [
+            310,
+            135,
+            427,
+            452
+          ],
+          "extracted_text": "NO PARKING 8:30-9:30 AM 3-4 PM SCHOOL DAYS 2P 9:30-3 PM MON-SAT",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000012.jpg",
+          "latitude": -37.81388028,
+          "longitude": 144.96338028
+        },
+        {
+          "sign_index": 13,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000013.jpg",
+          "frame_timestamp": 6.072733333333334,
+          "bbox": [
+            98,
+            0,
+            298,
+            406
+          ],
+          "extracted_text": "NO $ 8:30-9:30 AM 3:00-4:00 PM SCHOOL DAYS",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000013.jpg",
+          "latitude": -37.813903636666666,
+          "longitude": 144.96340363666667
+        },
+        {
+          "sign_index": 14,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\b6176461-858c-4de3-b0a2-d7df54e356a3\\frame_000013.jpg",
+          "frame_timestamp": 6.072733333333334,
+          "bbox": [
+            98,
+            0,
+            298,
+            406
+          ],
+          "extracted_text": "2P 9:30-3:00 AM MON-SAT",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\b6176461-858c-4de3-b0a2-d7df54e356a3\\sign_000014.jpg",
+          "latitude": -37.813903636666666,
+          "longitude": 144.96340363666667
+        }
+      ]
+    },
+    {
+      "video_id": "693add3d-a679-420b-bf4d-91d43a494c8f",
+      "video_path": "D:\\Parking\\parking_platform\\uploads\\693add3d-a679-420b-bf4d-91d43a494c8f_test_video_short.mp4",
+      "upload_timestamp": "2026-01-06T13:23:00.616682",
+      "signs": [
+        {
+          "sign_index": 1,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\693add3d-a679-420b-bf4d-91d43a494c8f\\frame_000000.jpg",
+          "frame_timestamp": 0.0,
+          "bbox": [
+            1666,
+            579,
+            1707,
+            641
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\693add3d-a679-420b-bf4d-91d43a494c8f\\sign_000001.jpg",
+          "latitude": -37.8136,
+          "longitude": 144.9631
+        },
+        {
+          "sign_index": 2,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\693add3d-a679-420b-bf4d-91d43a494c8f\\frame_000001.jpg",
+          "frame_timestamp": 0.7674333333333333,
+          "bbox": [
+            1703,
+            582,
+            1756,
+            646
+          ],
+          "extracted_text": "ZONE 8",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\693add3d-a679-420b-bf4d-91d43a494c8f\\sign_000002.jpg",
+          "latitude": -37.81363837166667,
+          "longitude": 144.96313837166667
+        },
+        {
+          "sign_index": 3,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\693add3d-a679-420b-bf4d-91d43a494c8f\\frame_000002.jpg",
+          "frame_timestamp": 1.5348666666666666,
+          "bbox": [
+            1787,
+            546,
+            1853,
+            626
+          ],
+          "extracted_text": "PERMIT ZONE 8AM-6PM",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\693add3d-a679-420b-bf4d-91d43a494c8f\\sign_000003.jpg",
+          "latitude": -37.81367674333333,
+          "longitude": 144.96317674333335
+        },
+        {
+          "sign_index": 4,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\693add3d-a679-420b-bf4d-91d43a494c8f\\frame_000004.jpg",
+          "frame_timestamp": 3.069733333333333,
+          "bbox": [
+            567,
+            388,
+            603,
+            525
+          ],
+          "extracted_text": "S 2P",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\693add3d-a679-420b-bf4d-91d43a494c8f\\sign_000004.jpg",
+          "latitude": -37.81375348666666,
+          "longitude": 144.96325348666664
+        },
+        {
+          "sign_index": 5,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\693add3d-a679-420b-bf4d-91d43a494c8f\\frame_000005.jpg",
+          "frame_timestamp": 3.8371666666666666,
+          "bbox": [
+            567,
+            346,
+            603,
+            512
+          ],
+          "extracted_text": "S 8F-9F 3.-4. 2P 9F-3.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\693add3d-a679-420b-bf4d-91d43a494c8f\\sign_000005.jpg",
+          "latitude": -37.81379185833333,
+          "longitude": 144.96329185833332
+        },
+        {
+          "sign_index": 6,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\693add3d-a679-420b-bf4d-91d43a494c8f\\frame_000006.jpg",
+          "frame_timestamp": 4.6046000000000005,
+          "bbox": [
+            520,
+            291,
+            568,
+            491
+          ],
+          "extracted_text": "8-9 3-4 SCHOOL SITE 2P 9-3.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\693add3d-a679-420b-bf4d-91d43a494c8f\\sign_000006.jpg",
+          "latitude": -37.81383023,
+          "longitude": 144.96333023
+        },
+        {
+          "sign_index": 7,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\693add3d-a679-420b-bf4d-91d43a494c8f\\frame_000007.jpg",
+          "frame_timestamp": 5.372033333333333,
+          "bbox": [
+            375,
+            180,
+            478,
+            461
+          ],
+          "extracted_text": "8:30-9:30\n3-4 SCHOOL DAYS\n2P\n9:30-3:",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\693add3d-a679-420b-bf4d-91d43a494c8f\\sign_000007.jpg",
+          "latitude": -37.81386860166667,
+          "longitude": 144.96336860166667
+        },
+        {
+          "sign_index": 8,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\693add3d-a679-420b-bf4d-91d43a494c8f\\frame_000008.jpg",
+          "frame_timestamp": 6.139466666666666,
+          "bbox": [
+            57,
+            0,
+            281,
+            394
+          ],
+          "extracted_text": "8:30-9:30\n3 PM-4 PM\nSCHOOL DAYS\n2P\n9:30 AM-3 PM\nMON-SAT",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\693add3d-a679-420b-bf4d-91d43a494c8f\\sign_000008.jpg",
+          "latitude": -37.81390697333333,
+          "longitude": 144.96340697333335
+        }
+      ]
+    },
+    {
+      "video_id": "d6b23563-e877-435b-9443-d05f3fee9788",
+      "video_path": "D:\\Parking\\parking_platform\\uploads\\d6b23563-e877-435b-9443-d05f3fee9788_test_video_short.mp4",
+      "upload_timestamp": "2026-01-09T20:10:09.533401",
+      "signs": [
+        {
+          "sign_index": 1,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\d6b23563-e877-435b-9443-d05f3fee9788\\frame_000000.jpg",
+          "frame_timestamp": 0.0,
+          "bbox": [
+            1666,
+            579,
+            1707,
+            641
+          ],
+          "extracted_text": "S",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\d6b23563-e877-435b-9443-d05f3fee9788\\sign_000001.jpg",
+          "latitude": -37.8136,
+          "longitude": 144.9631
+        },
+        {
+          "sign_index": 2,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\d6b23563-e877-435b-9443-d05f3fee9788\\frame_000001.jpg",
+          "frame_timestamp": 0.9676333333333333,
+          "bbox": [
+            1724,
+            575,
+            1772,
+            644
+          ],
+          "extracted_text": "ZONE 8",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\d6b23563-e877-435b-9443-d05f3fee9788\\sign_000002.jpg",
+          "latitude": -37.81364838166667,
+          "longitude": 144.96314838166668
+        },
+        {
+          "sign_index": 3,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\d6b23563-e877-435b-9443-d05f3fee9788\\frame_000002.jpg",
+          "frame_timestamp": 1.9352666666666667,
+          "bbox": [
+            1856,
+            523,
+            1920,
+            605
+          ],
+          "extracted_text": "PERMIT ZONE 8-6",
+          "arrow_direction": "left",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\d6b23563-e877-435b-9443-d05f3fee9788\\sign_000003.jpg",
+          "latitude": -37.81369676333333,
+          "longitude": 144.96319676333334
+        },
+        {
+          "sign_index": 4,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\d6b23563-e877-435b-9443-d05f3fee9788\\frame_000003.jpg",
+          "frame_timestamp": 2.9029000000000003,
+          "bbox": [
+            566,
+            399,
+            607,
+            533
+          ],
+          "extracted_text": "S 2P",
+          "arrow_direction": "none",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\d6b23563-e877-435b-9443-d05f3fee9788\\sign_000004.jpg",
+          "latitude": -37.813745145,
+          "longitude": 144.963245145
+        },
+        {
+          "sign_index": 5,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\d6b23563-e877-435b-9443-d05f3fee9788\\frame_000004.jpg",
+          "frame_timestamp": 3.8705333333333334,
+          "bbox": [
+            566,
+            345,
+            605,
+            512
+          ],
+          "extracted_text": "S 8.ラ 3.4 2P 9.1.3.",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\d6b23563-e877-435b-9443-d05f3fee9788\\sign_000005.jpg",
+          "latitude": -37.813793526666664,
+          "longitude": 144.96329352666666
+        },
+        {
+          "sign_index": 6,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\d6b23563-e877-435b-9443-d05f3fee9788\\frame_000005.jpg",
+          "frame_timestamp": 4.838166666666667,
+          "bbox": [
+            486,
+            262,
+            560,
+            487
+          ],
+          "extracted_text": "8-9 3-4 2P 9-3 NON-SAT",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\d6b23563-e877-435b-9443-d05f3fee9788\\sign_000006.jpg",
+          "latitude": -37.81384190833334,
+          "longitude": 144.96334190833332
+        },
+        {
+          "sign_index": 7,
+          "frame_path": "D:\\Parking\\parking_platform\\processed\\frames\\d6b23563-e877-435b-9443-d05f3fee9788\\frame_000006.jpg",
+          "frame_timestamp": 5.8058000000000005,
+          "bbox": [
+            240,
+            80,
+            390,
+            435
+          ],
+          "extracted_text": "8:30-9:30 AM\n3-4 PM\nSCHOOL DAYS\n2P\n9:30 AM-3 PM\nMON-SAT",
+          "arrow_direction": "right",
+          "cropped_image_path": "D:\\Parking\\parking_platform\\processed\\cropped_signs\\d6b23563-e877-435b-9443-d05f3fee9788\\sign_000007.jpg",
+          "latitude": -37.813890289999996,
+          "longitude": 144.96339029
+        }
+      ]
+    }
+  ]
+}

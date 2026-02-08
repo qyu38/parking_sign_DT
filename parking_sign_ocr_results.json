@@ -1,0 +1,324 @@
+[
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3601_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "PERMIT ZONE 8-6PM",
+        "arrow_direction": "left"
+      },
+      {
+        "sign_index": 2,
+        "extracted_text": "S",
+        "arrow_direction": "right"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3601_180B.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "PERMIT ZONE 8.-6.",
+        "arrow_direction": "left"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3602_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "PERMIT ZONE 8-6.",
+        "arrow_direction": "left"
+      },
+      {
+        "sign_index": 2,
+        "extracted_text": "PERMIT ZONE -6.",
+        "arrow_direction": "right"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3602_180B.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "PERMIT ZONE 8.-6.",
+        "arrow_direction": "right"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3603_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "S 2P",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3603_180B.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "&P 9-6",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3604_180A.jpg",
+    "signs": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3604_180B.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "S 1½P 8.-6.",
+        "arrow_direction": "left"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3605_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "2P",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3605_180B.jpg",
+    "signs": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3606_180A.jpg",
+    "signs": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3606_180B.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "S 2P 8-6.",
+        "arrow_direction": "right"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3608_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "1/2P 8-6.",
+        "arrow_direction": "left"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3608_180B.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "S 2P 8.6.",
+        "arrow_direction": "left"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3609_180A.jpg",
+    "signs": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3609_180B.jpg",
+    "signs": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 360_180A.jpg",
+    "signs": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 360_180B.jpg",
+    "signs": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3610_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "S UP",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3610_180B.jpg",
+    "signs": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3611_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "1/2P 8-6AM MON-FRI",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3611_180B.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "1P 8AM-6PM",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3613_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "1/2P 8-6 MON-FRI",
+        "arrow_direction": "left"
+      },
+      {
+        "sign_index": 2,
+        "extracted_text": "S",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3613_180B.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "1/2P S 8-6",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3614_180A.jpg",
+    "signs": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3614_180B.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "1½P 8 6",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3615_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "½P 8-6.",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3615_180B.jpg",
+    "signs": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3616_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "P 2HR 8AM-6PM",
+        "arrow_direction": "right"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3616_180B.jpg",
+    "signs": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3617_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "1/2P 8-6",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3617_180B.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "1½P 8 6",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3618_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "1½P 8-6",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3618_180B.jpg",
+    "signs": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3619_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "P 10AM-6PM",
+        "arrow_direction": "right"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3619_180B.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "P'S",
+        "arrow_direction": "none"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3620_180A.jpg",
+    "signs": [
+      {
+        "sign_index": 1,
+        "extracted_text": "1/2P 8-6",
+        "arrow_direction": "left"
+      },
+      {
+        "sign_index": 2,
+        "extracted_text": "$",
+        "arrow_direction": "right"
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3620_180B.jpg",
+    "signs": []
+  }
+]

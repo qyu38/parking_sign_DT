@@ -1,0 +1,379 @@
+[
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3601_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          984,
+          957,
+          1085,
+          1067
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3601_180B.jpg",
+    "detections": [
+      {
+        "bbox": [
+          1033,
+          980,
+          1089,
+          1044
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3602_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          600,
+          920,
+          696,
+          1023
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3602_180B.jpg",
+    "detections": [
+      {
+        "bbox": [
+          1179,
+          1016,
+          1241,
+          1073
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3603_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          1533,
+          945,
+          1566,
+          1003
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3603_180B.jpg",
+    "detections": [
+      {
+        "bbox": [
+          724,
+          985,
+          780,
+          1067
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3604_180A.jpg",
+    "detections": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3604_180B.jpg",
+    "detections": [
+      {
+        "bbox": [
+          774,
+          1010,
+          838,
+          1073
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3605_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          240,
+          969,
+          270,
+          1021
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3605_180B.jpg",
+    "detections": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3606_180A.jpg",
+    "detections": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3606_180B.jpg",
+    "detections": [
+      {
+        "bbox": [
+          1275,
+          980,
+          1329,
+          1044
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3608_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          1592,
+          928,
+          1644,
+          1028
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3608_180B.jpg",
+    "detections": [
+      {
+        "bbox": [
+          953,
+          990,
+          1011,
+          1046
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3609_180A.jpg",
+    "detections": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3609_180B.jpg",
+    "detections": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 360_180A.jpg",
+    "detections": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 360_180B.jpg",
+    "detections": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3610_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          1819,
+          969,
+          1845,
+          1017
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3610_180B.jpg",
+    "detections": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3611_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          764,
+          953,
+          809,
+          1060
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3611_180B.jpg",
+    "detections": [
+      {
+        "bbox": [
+          1343,
+          986,
+          1362,
+          1044
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3613_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          1014,
+          955,
+          1149,
+          1091
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3613_180B.jpg",
+    "detections": [
+      {
+        "bbox": [
+          588,
+          1012,
+          638,
+          1060
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3614_180A.jpg",
+    "detections": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3614_180B.jpg",
+    "detections": [
+      {
+        "bbox": [
+          1277,
+          979,
+          1306,
+          1047
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3615_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          630,
+          990,
+          672,
+          1038
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3615_180B.jpg",
+    "detections": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3616_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          1596,
+          990,
+          1626,
+          1048
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3616_180B.jpg",
+    "detections": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3617_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          805,
+          1004,
+          835,
+          1070
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3617_180B.jpg",
+    "detections": [
+      {
+        "bbox": [
+          1115,
+          969,
+          1167,
+          1068
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3618_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          845,
+          991,
+          883,
+          1061
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3618_180B.jpg",
+    "detections": []
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3619_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          479,
+          990,
+          519,
+          1040
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3619_180B.jpg",
+    "detections": [
+      {
+        "bbox": [
+          1593,
+          971,
+          1631,
+          1030
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3620_180A.jpg",
+    "detections": [
+      {
+        "bbox": [
+          607,
+          973,
+          681,
+          1068
+        ]
+      }
+    ]
+  },
+  {
+    "image_path": "D:\\Datasets\\Google\\split_180\\Street View 3620_180B.jpg",
+    "detections": []
+  }
+]
